@@ -21,7 +21,7 @@ This repository showcases the implementation of UI and API tests for Trello.com 
 1. Clone this repository to your local machine.
 2. Utilize Maven for dependency management. Run `mvn install` to fetch the required dependencies.
 3. For running the both API and UI suites, `mvn test` can be executed via Terminal under the root folder of the project.
-4. If any issue exists with ChoreDriver while executing the tests, under the folder of Drivers, executing following command `xattr -d com.apple.quarantine chromedriver` will fix it.
+4. If any issue exists with ChromeDriver while executing the tests, under the folder of Drivers, executing following command `xattr -d com.apple.quarantine chromedriver` will fix it.
 
 
 ## UI Testing
