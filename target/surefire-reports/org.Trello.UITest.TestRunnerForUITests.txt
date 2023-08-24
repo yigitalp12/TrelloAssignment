@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.Trello.UITest.TestRunnerForUITests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.54 s -- in org.Trello.UITest.TestRunnerForUITests

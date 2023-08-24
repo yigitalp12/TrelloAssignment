@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.Trello.APITest.TestRunnerForAPITests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.273 s -- in org.Trello.APITest.TestRunnerForAPITests
