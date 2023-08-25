@@ -41,6 +41,8 @@ The `src/test/resources/featuresUI` directory contains Gherkin feature files. Th
 
 To execute UI tests, run the Cucumber tests using a specified runner class, e.g., `TestRunnerForUITests.java`, which integrates Cucumber with the test framework.
 
+## API Testing
+
 ### BDD with Cucumber for API
 
 API tests are also implemented using the BDD approach. Gherkin feature files in the `src/test/resources/featuresAPI` directory outline the API test scenarios. The corresponding step definitions are implemented in Java classes within the `api.stepdefinitions` package.
