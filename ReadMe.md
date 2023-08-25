@@ -55,6 +55,10 @@ To execute UI tests, run the Cucumber tests using a specified runner class, e.g.
 
 After running the tests, the test reports are generated. These reports offer insights into the test execution results, including passed and failed scenarios. The reports are located in the `target` directory, under `cucumber-reports` after test execution.
 
+## Test Plan
+
+A detailed test plan can be found in the root project which explains the purpose, scope, test environment, UI and API Test Scenarios for selected functionalities, Test Execution. 
+
 
 
 
